@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Display Ordinal Date
 function display_ordinal() {
  day=$(date +%d)
   ## debug
