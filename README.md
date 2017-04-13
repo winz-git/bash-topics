@@ -1,4 +1,4 @@
-# bash-topics
+# bash topics
 
 
 # Display the Ordinal of the Date in bash
