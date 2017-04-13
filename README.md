@@ -1,11 +1,13 @@
-# bash-ordinal-date
-Display the Ordinal of the Date in bash
+# bash-topics
+
+
+# Display the Ordinal of the Date in bash
 
 **Output:**<br/>
 03:02:04 AM, 13th April 2017
 
 
-**Search an element in array**<br/>
+# Search an element in array
 ```bash
 day_in_array=('11' '12' '13')
 two_digit=12
